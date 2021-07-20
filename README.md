@@ -9,3 +9,6 @@ In this tutorial, you will:
 4. Visualize the performance of your trained CNN
 5. Learn how to do transfer learning 
 
+Click [here](https://colab.research.google.com/drive/1ZtAebRezPJ00LGavIpgCK7L7Vo5FjHVJ?usp=sharing) to open the Colab notebook for this tutorial! 
+
+
