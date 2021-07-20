@@ -1,4 +1,4 @@
-# dssg_cv_tutorial
+# DSSG tutorial: Introduction to convolutional neural network for computer vision
 
 This is the tutorial session for [Stanford Data Science for Social Good](https://datascience.stanford.edu/programs/data-science-social-good-summer-program). We use [Google Colab](https://colab.research.google.com/notebooks/) to interactively execute the code and visualize the training result. 
 
